@@ -1,0 +1,41 @@
+count,gender,Push-up test fitness status
+10,1,Poor boy
+13,1,Poor boy
+14,1,Poor boy
+16,1,Poor boy
+17,1,fair boy
+19,1,fair boy
+20,1,fair boy
+21,1,fair boy
+22,1,good boy
+25,1,good boy
+26,1,good boy
+28,1,good boy
+29,1,very good boy
+31,1,very good boy
+33,1,very good boy
+35,1,very good boy
+36,1,Excellent boy
+37,1,Excellent boy
+38,1,Excellent boy
+40,1,Excellent boy
+5,0,poor girl
+7,0,poor girl
+8,0,poor girl
+9,0,poor girl
+10,0,fair girl
+12,0,fair girl
+13,0,fair girl
+14,0,fair girl
+15,0,good girl
+16,0,good girl
+18,0,good girl
+20,0,good girl
+21,0,very good girl
+25,0,very good girl
+27,0,very good girl
+29,0,very good girl
+30,0,Excellent girl
+32,0,Excellent girl
+33,0,Excellent girl
+35,0,Excellent girl
